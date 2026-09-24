@@ -55,3 +55,6 @@
 - endpoint: stratum+tcp://eu3.solopool.org:8003
   fee: 1.5%
   www: https://btc.solopool.org/
+- endpoint: stratum+tcp://stratum.btcpowlab-pool.com:3333
+  fee: 5%
+  www: https://btcpowlab-pool.com/model
